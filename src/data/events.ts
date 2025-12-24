@@ -79,6 +79,6 @@ export const events: EventItem[] = [
     category: 'academic',
     title: 'Study Abroad 101',
     description: 'An offline event where panellists guide about higher education opportunities abroad and how to crack various examinations.',
-    image: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&h=400&fit=crop',
+    image: 'https://raw.githubusercontent.com/PraneetDixit/swg-events/master/src/Assets/Images/Study%20Abroad%20101%20Photos/IMG_1362.HEIC',
   },
 ];
